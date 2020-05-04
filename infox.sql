@@ -84,3 +84,5 @@ C.nomecli,fonecli
 from tbos as O
 inner join tbclientes as C
 on (O.idcli = C.idcli);
+
+
